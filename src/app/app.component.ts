@@ -1,4 +1,6 @@
 import { Component } from '@angular/core';
+import { ColorDirective } from './directivas/color.directive';
+
 
 @Component({
   selector: 'app-root',
